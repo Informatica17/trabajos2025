@@ -1,0 +1,39 @@
+< html>
+       <html lang=''es''>
+       <head>
+                 <meta charset=''UTF-8">
+                 <title>Audiolibro:ninguno </title>
+                 <link rel ="shortcut icon"type"image/jpg" herf="../recursos/LOGO. jpg"/>
+          </head>
+      <body>
+                      <h1 aling="center">Audiolibro: ninguno  </h1>
+                      <hr>
+                      <a href="../index.html'>
+                      <img src="../recursos/LOGO.jpg" width="30" height="30">Inicio</a>
+                      <hr>
+                      <p>A continuacion podras escuchar el audiolibro: ninguno </p>
+
+                      <audio controls autoplay controls loop preload="none">
+                                        <source src="audiolibro.mp3" type="audio/mp3>
+                                       No soportado por el navegador
+                 </audio>
+      
+                <h3>Audiolibro</h3>
+                <ul aling=left>
+               <li># De equipo:    </li>
+               <li>cuento:           </li>
+              <li>Autor de del cuento:      </li>
+             <li>duracion:          </li>
+     </ul aling=left>
+           <li>Narradores:     </li>
+           <li>editores:         </li>
+           <li>musica y efectos:         </li>
+            </ul>
+           <footer>
+                  <center>
+                                                 <br>Escuela Secundaria Tecnica 17</p>
+                            </center>
+                </footer>
+      </body>
+</html>
+     
