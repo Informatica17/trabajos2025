@@ -1,0 +1,24 @@
+﻿body{
+	blackground:lightblue;
+	font-size:20px
+	text-align:right;
+}
+h1,h2,h3,h4,h5,h6{
+			color:blue;
+			}
+		p{
+			font-size:16px;
+			color:salmon;
+			}
+		a{
+			color:green;
+			}
+		table{
+			font-family:Arial;
+			font-size:14px;
+			}
+		li{
+			font-family:Arial;
+			font-size:14px;
+			color:indigo;
+			}
